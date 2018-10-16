@@ -1,4 +1,4 @@
-package unit_7;
+package unit_7.reusing;
 
 class WaterSource{
     private String s ;
