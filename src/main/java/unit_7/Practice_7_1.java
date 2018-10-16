@@ -1,4 +1,4 @@
-package unit_7.reusing;
+package unit_7;
 import static net.mindview.util.Print.*;
 
 class Book{
