@@ -14,6 +14,9 @@ class Book{
     }
 }
 
+/**
+ * 描述：创建一个简单的类，在第二个类中，将一个引用定义为第一个类的对象。运用惰性初始化来实例化对象。
+ */
 public class Practice_7_1 {
     Book book;
 
