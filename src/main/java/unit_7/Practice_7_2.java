@@ -1,4 +1,6 @@
-package unit_7.reusing;
+package unit_7;
+import unit_7.reusing.Detergent;
+
 import static net.mindview.util.Print.*;
 
 
