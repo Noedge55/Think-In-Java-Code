@@ -43,7 +43,7 @@ class Stem extends Root{
  * @描述：创建一个root类，另其含有名为component1、component2、component3的类的各一个实例（这些也由你写）。
  * 从Root中派生一个类Stem，也含有上述各个“组成部分”。所有的类都应该带有可打印出类相关信息的默认构造器
  */
-public class Prictice_7_9 {
+public class Practice_7_9 {
     public static void main(String[] args) {
         Stem stem = new Stem();
     }
