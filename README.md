@@ -16,3 +16,5 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 - [Chess](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Chess.java)
 - [练习6](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Chess.java)
 - [练习7](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_7.java)
+- [练习8](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_8.java)
+- [练习9](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_9.java)
