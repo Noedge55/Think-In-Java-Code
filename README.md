@@ -26,3 +26,5 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 - [练习11](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_11.java)
 ### 7.4 结合使用组合和继承
 - [PlaceSetting](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/PlaceSetting.java)
+#### 7.4.1 确保正确清理
+- [CADSystem](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/CADSystem.java)
