@@ -17,7 +17,7 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 - [练习6](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Chess.java)
 - [练习7](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_7.java)
 - [练习8](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_8.java)
-- [练习9](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_9.java)
+- [练习9](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_9AND12.java)
 - [练习10](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_10.java)
 ### 7.3 代理
 - [SpaceShip](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/SpaceShip.java)
@@ -28,3 +28,7 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 - [PlaceSetting](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/PlaceSetting.java)
 #### 7.4.1 确保正确清理
 - [CADSystem](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/CADSystem.java)
+- [练习12](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_9AND12.java)
+#### 7.4.2 名称屏蔽
+- [Hide](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Hide.java)
+- [练习13](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_13.java)
