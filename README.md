@@ -32,3 +32,13 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 #### 7.4.2 名称屏蔽
 - [Hide](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Hide.java)
 - [练习13](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_13.java)
+### 7.5 在组合与继承之间选择
+- [Car](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Car.java)
+- [练习14](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Car.java)
+### 7.6 protected关键字
+- [Orc](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Orc.java)
+- [练习15](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_15.java)
+### 7.7 向上转型
+- [Wind](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Wind.java)
+#### 7.7.2 再论组合与继承
+- [练习16以及练习17](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_16AND17.java)
