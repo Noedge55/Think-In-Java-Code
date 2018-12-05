@@ -42,3 +42,10 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 - [Wind](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Wind.java)
 #### 7.7.2 再论组合与继承
 - [练习16以及练习17](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_16AND17.java)
+### 7.8 final关键字
+#### 7.8.1 final 数据
+- [FinalData](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/FinalData.java)
+- [练习18](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_18.java)
+- [BlankFinal](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/BlankFinal.java)
+- [练习19](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/BlankFinal.java)
+- [FinalArguments](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/FinalArguments.java)
