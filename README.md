@@ -41,7 +41,7 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 ### 7.7 向上转型
 - [Wind](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Wind.java)
 #### 7.7.2 再论组合与继承
-- [练习16以及练习17](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_16AND17.java)
+- [练习16 以及 练习17](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_16AND17.java)
 ### 7.8 final关键字
 #### 7.8.1 final 数据
 - [FinalData](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/FinalData.java)
@@ -49,3 +49,14 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 - [BlankFinal](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/BlankFinal.java)
 - [练习19](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/BlankFinal.java)
 - [FinalArguments](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/FinalArguments.java)
+#### 7.8.2 final 方法
+- [FinalOverridingIllusion](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/FinalOverridingIllusion.java)
+- [练习20 以及 练习21](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/FinalOverridingIllusion.java)
+#### 7.8.3 final 类
+- [Jurassic](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Jurassic.java)
+- [练习22](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Jurassic.java)
+### 7.9 初始化以及类的加载
+#### 7.9.1 继承与初始化
+- [Beetle](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Beetle.java)
+- [练习23](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_23.java)
+- [练习24](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_24.java)
