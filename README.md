@@ -60,3 +60,11 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 - [Beetle](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/reusing/Beetle.java)
 - [练习23](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_23.java)
 - [练习24](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_7/Practice_7_24.java)
+## 第八章 多态
+### 8.1 再论向上转型
+- [Instrument](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/music/Instrument.java)
+- [Music](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/music/Music.java)
+- [Note](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/music/Note.java)
+- [Wind](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/music/Wind.java)
+- [Music2](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/music/Music2.java)
+- [练习1](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/Practice_8_1.java)
