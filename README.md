@@ -68,3 +68,13 @@ Thinking In Java 书中源码以及课后练习代码(从第7章开始随着看�
 - [Wind](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/music/Wind.java)
 - [Music2](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/music/Music2.java)
 - [练习1](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/Practice_8_1.java)
+### 8.2 转机
+#### 8.2.2 产生正确的行为
+- [Shape](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/shape/Shape.java)
+- [Circle](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/shape/Circle.java)
+- [Square](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/shape/Square.java)
+- [Triangle](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/shape/Triangle.java)
+- [RandomShapeGenerator](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/shape/RandomShapeGenerator.java)
+- [Shapes](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/shape/Shapes.java)
+- [练习4](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/polymorphism/shape/Ladder.java)
+- [练习5](https://github.com/Noedge55/Think-In-Java-Code/blob/master/src/main/java/unit_8/Practice_8_1.java)
